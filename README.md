@@ -79,3 +79,6 @@ O projeto está estruturado da seguinte maneira:
 
 ## Solução
 O código de testes está pela metade, e você deverá dar continuidade implementando os testes descritos acima, para que no final, tenhamos um programa de testes funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+
+# Projeto Finalizado
+Para testar é preciso navegar até a pasta "./trilha-net-testes-unitarios-desafio/TestesUnitarios.Desafio.Tests", utilizando o comando "cd ./trilha-net-testes-unitarios-desafio/TestesUnitarios.Desafio.Tests", depois será preciso executar o comando "dotnet test".
